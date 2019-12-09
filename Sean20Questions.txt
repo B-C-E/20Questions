@@ -1,0 +1,29 @@
+Q:Does your object have walls?
+Q:Is your object made entirely from stone?
+Q:Is your object of a complex design?
+A:Castle
+A:Stone Cube
+Q:Do people live in it?
+Q:Is your object a type of cabin?
+A:Log Cabin
+A:Log House
+Q:Is your object an elaborate place of worship?
+A:Cathedral
+A:Barn
+Q:Is your object pink because of its diet?
+A:Flamingo
+Q:Does it have horns?
+Q:Can you typically find your object on a dairy farm?
+A:Cow
+A:Buffalo
+Q:Is it a type of fungi?
+Q:Is your object safe to eat?
+A:Lion's Mane Mushroom
+A:Amanita Muscaria Mushroom
+Q:Is your object usually used to prepare food?
+Q:Is your object ideal for stir frying, steaming, searing, and roasting nuts?
+A:Wok
+A:Frying pan
+Q:Can your object be found on the periodic table?
+A:The Element Bismuth
+A:Computer
