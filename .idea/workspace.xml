@@ -1,14 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8f7dfb13-4b83-43c6-8136-c4a513459b05" name="Default Changelist" comment="" />
+    <list default="true" id="8f7dfb13-4b83-43c6-8136-c4a513459b05" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animals.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pack/QuestionMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pack/QuestionNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pack/QuestionTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pack/UserInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pack/Main.java" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\Sean\Desktop\new\20Questions\.idea" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1Uj4wVpCGMvUOfZBQ0zi24pV4po" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Sean\Desktop\new\20Questions" />
+      <recent name="C:\Users\Sean\Desktop\new\20Questions\src" />
+      <recent name="C:\Users\Sean\Desktop\new\20Questions\src\com\pack" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -21,7 +57,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.QuestionMain">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.pack.Main" />
       <module name="new" />
@@ -32,6 +68,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="QuestionMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pack.QuestionMain" />
+      <module name="new" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.QuestionMain" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -45,5 +99,16 @@
       <updated>1575856908091</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
